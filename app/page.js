@@ -34,13 +34,13 @@ export default function Home() {
           </div>
           <p className="py-2 leading-6">
             I&apos;m a passionate MERN Stack Web Developer with hands-on
-            experience building responsive, user-friendly web applications.
-            Skilled in translating ideas into functional full-stack solutions
-            using MongoDB, Express.js, React, and Node.js — with a design-aware
-            approach backed by practical UI/UX experience in Figma. Backed by 8+
-            months of Java programming experience, with a solid understanding of
-            object-oriented principles that supports writing clean, structured,
-            and maintainable code.
+            experience in building responsive and user-friendly web
+            applications. I can turn ideas into functional full-stack solutions
+            using MongoDB, Express.js, React, and Next.js. I also have practical
+            UI/UX experience using Figma.
+            <br />I have academic experience in Java programming and a good
+            understanding of object-oriented programming, which helps me write
+            clean and well-structured code.
           </p>
           <a
             href="/Asaad Nadeem.pdf"
@@ -134,9 +134,10 @@ export default function Home() {
             React.js, Express.js, MongoDB, Bootstrap, API&apos;s, Google OAuth
           </ProjectCard.Tech>
           <ProjectCard.Description>
-            This is a sample project description for Project 1. It showcases the
-            use of React for the frontend, Node.js for the backend, and MongoDB
-            for the database.
+            This project demonstrates the use of REST API, created using
+            Express.js and MongoDB as the Database. It also uses External APIs
+            like Sightengine AI for Moderation checks, Google OAuth for
+            authentication, etc.
           </ProjectCard.Description>
           <ProjectCard.Link href="http://visio-guard-an.vercel.app/">
             Live Demo
@@ -152,9 +153,10 @@ export default function Home() {
             React.js, Express.js, MongoDB, Bootstrap
           </ProjectCard.Tech>
           <ProjectCard.Description>
-            This is a sample project description for Project 1. It showcases the
-            use of React for the frontend, Node.js for the backend, and MongoDB
-            for the database.
+            It uses a React app as the frontend, connected with the REST API of
+            Express.js. It uses several Express and React libraries, like axios,
+            cors, mongoose, etc. Uses Bootstrap Components for UI. Allows CRUD
+            operations on MongoDB.
           </ProjectCard.Description>
           <ProjectCard.Link href="https://github.com/AsaadNadeem/Todo">
             View on Github
@@ -165,9 +167,10 @@ export default function Home() {
           <ProjectCard.Title>Zade6</ProjectCard.Title>
           <ProjectCard.Tech>Java, Java GUI, MySQL</ProjectCard.Tech>
           <ProjectCard.Description>
-            This is a sample project description for Project 1. It showcases the
-            use of React for the frontend, Node.js for the backend, and MongoDB
-            for the database.
+            Grouped Semmester project, using Java as core language. Highly
+            demonstrates the use of OOP, in the form of External Classes and
+            objects. Data is stored in MySQL, in the Form of tables. UI is
+            designed, using Java GUI.
           </ProjectCard.Description>
           <ProjectCard.Link href="https://github.com/AsaadNadeem/Zade6">
             View on Github
@@ -181,9 +184,10 @@ export default function Home() {
           <ProjectCard.Title>Peak Trail Gear UI/UX</ProjectCard.Title>
           <ProjectCard.Tech>Figma</ProjectCard.Tech>
           <ProjectCard.Description>
-            This is a sample project description for Project 1. It showcases the
-            use of React for the frontend, Node.js for the backend, and MongoDB
-            for the database.
+            Demonstration of my UI/UX design skills on Figma. It is UI of a
+            complete E-Commerce website and application. Also
+            responsive. Displays products in the form of card, divided in
+            different catagories.
           </ProjectCard.Description>
           <ProjectCard.Link href="https://www.behance.net/gallery/248147083/Hiking-Gear-Business-Landing-Website-and-Applicaton">
             View on Behance
@@ -197,9 +201,10 @@ export default function Home() {
           <ProjectCard.Title>Business Landing Page</ProjectCard.Title>
           <ProjectCard.Tech>HTML5, CSS3</ProjectCard.Tech>
           <ProjectCard.Description>
-            This is a sample project description for Project 1. It showcases the
-            use of React for the frontend, Node.js for the backend, and MongoDB
-            for the database.
+            This is a very basic UI and animations combination, in the form of a
+            landing page. It only uses the fundamental skills HTML and CSS in
+            the light blue and parrot background theme. Especially the
+            eye-captivationg hero section.
           </ProjectCard.Description>
           <ProjectCard.Link href="https://business-landing-page-ten-orcin.vercel.app/">
             Live Demo
